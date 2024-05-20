@@ -2,8 +2,8 @@
 - 👀 I’m interested in testing in prod.
 - 🌱 I’m currently making hobby lobby better :)
 - 💞️ I’m looking to collaborate on new projects to improve hobby lobby & mardel <3
-- 📫 How to reach me: Don't.
-- 😄 Pronouns: table/tables
+- 📫 How to reach me: High Frequency
+- 😄 Welcome to JAVA world!
 - ⚡ Fun fact: I'm actually a dolphin.
 
 <!---
