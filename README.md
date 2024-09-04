@@ -25,7 +25,7 @@
 - 👩🏼‍💻 My pronouns are Her/She 🍫
 - ⚡ Fun fact: I'm actually a dolphin.
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://www.icegif.com/wp-content/uploads/2021/12/icegif-713.gif)
+![](https://www.icegif.com/wp-content/uploads/2021/12/icegif-713.gif)
 
 <!---
 ![Snake animation](https://github.com/VioletOh/VioletOh/blob/output/github-contribution-grid-snake.svg)
