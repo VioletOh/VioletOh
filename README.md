@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on new projects to improve hobby lobby & mardel <3
 - 📫 How to reach me: High Frequency
 - 😄 Welcome to JAVA world!
+- 👩🏼‍💻 My pronouns are Her/She 🍫
 - ⚡ Fun fact: I'm actually a dolphin.
 
 <!---
