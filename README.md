@@ -25,6 +25,9 @@
 - 👩🏼‍💻 My pronouns are Her/She 🍫
 - ⚡ Fun fact: I'm actually a dolphin.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VioletOh&show_icons=true)](https://github.com/VioletOh/github-readme-stats)
+
+![Snake animation](https://github.com/VioletOh/VioletOh/blob/output/github-contribution-grid-snake.svg)
 <!---
 VioletOh/VioletOh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
