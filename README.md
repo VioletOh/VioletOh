@@ -25,7 +25,7 @@
 - 👩🏼‍💻 My pronouns are Her/She 🍫
 - ⚡ Fun fact: I'm actually a dolphin.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VioletOh&show_icons=true)](https://github.com/VioletOh/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VioletOh&show_icons=true&theme=transparent)](https://github.com/VioletOh/github-readme-stats)
 
 ![Snake animation](https://github.com/VioletOh/VioletOh/blob/output/github-contribution-grid-snake.svg)
 <!---
