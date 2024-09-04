@@ -26,7 +26,9 @@
 - ⚡ Fun fact: I'm actually a dolphin.
 
 
+<!---
 ![Snake animation](https://github.com/VioletOh/VioletOh/blob/output/github-contribution-grid-snake.svg)
+--->
 <!---
 VioletOh/VioletOh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
