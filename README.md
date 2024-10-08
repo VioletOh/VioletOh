@@ -1,5 +1,4 @@
 ### 🌎 Hello World, I'm Violet! 👋
-![](https://komarev.com/ghpvc/?username=starrycode&color=blueviolet&style=for-the-badge)
 #### I am a Software Developer 💻👾. I code with.. 
 
 ![Java](https://img.shields.io/badge/-Java-F14C40?style=for-the-badge&logo=CoffeeScript&logoColor=ffffff)
@@ -18,6 +17,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 
+![](https://komarev.com/ghpvc/?username=starrycode&color=blueviolet&style=for-the-badge)
 
 - 👋 Hi, I’m @VioletOh
 - 👀 I’m interested in testing in prod.
