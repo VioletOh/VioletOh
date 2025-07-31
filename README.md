@@ -1,9 +1,4 @@
-<div style="width: 150%; height: 150%">
-  
-  ![](https://criticalcomputer.com/wp-content/uploads/2018/05/tricked.jpg)
 
-  
-</div>
 
 <img src="https://criticalcomputer.com/wp-content/uploads/2018/05/tricked.jpg" width="1000"/>
 
