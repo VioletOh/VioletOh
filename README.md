@@ -5,6 +5,8 @@
   
 </div>
 
+<img src="https://criticalcomputer.com/wp-content/uploads/2018/05/tricked.jpg" width="400"/>
+
 
 
 ### 🌎 Hello World, I'm Violet! 👋
