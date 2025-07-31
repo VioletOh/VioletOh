@@ -1,3 +1,6 @@
+![](https://criticalcomputer.com/wp-content/uploads/2018/05/tricked.jpg)
+
+
 ### 🌎 Hello World, I'm Violet! 👋
 #### I am a Software Developer 💻👾. I code with.. 
 
