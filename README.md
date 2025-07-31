@@ -1,4 +1,4 @@
-![](https://criticalcomputer.com/wp-content/uploads/2018/05/tricked.jpg)
+![](https://criticalcomputer.com/wp-content/uploads/2018/05/tricked.jpg =250x250)
 
 
 ### 🌎 Hello World, I'm Violet! 👋
